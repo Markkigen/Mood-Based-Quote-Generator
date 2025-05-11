@@ -12,3 +12,6 @@ A small Python console app that gives you uplifting quotes based on your current
 ##  How to Run
 ```bash
 python main.py
+
+
+this is just me leaning dictionaries in python 
