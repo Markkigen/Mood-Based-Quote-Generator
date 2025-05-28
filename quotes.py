@@ -15,6 +15,7 @@ quotes = {
         "Just breathe. You got this.",
         "Take it one step at a time.",
         "Let go of what you can’t control."
+        "It will come to pass, Don't worry bro"
     ],
     "motivated": [
         "Push yourself, no one else will.",
