@@ -10,6 +10,7 @@ quotes = {
         "Tough times never last, but tough people do.",
         "It's okay to not be okay.",
         "Every storm runs out of rain."
+        "It will come to pass, Don't woory bro"
     ],
     "stressed": [
         "Just breathe. You got this.",
