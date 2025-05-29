@@ -10,6 +10,8 @@ quotes = {
         "Tough times never last, but tough people do.",
         "It's okay to not be okay.",
         "Every storm runs out of rain."
+        "Everything will be okay"
+        
     ],
     "stressed": [
         "Just breathe. You got this.",
@@ -27,6 +29,7 @@ quotes = {
         "This moment will pass, and you'll grow stronger.",
         "Even the moon needs darkness to shine."
     ]
+    
 }
 
 def get_quote(mood):
