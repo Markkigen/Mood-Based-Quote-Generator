@@ -42,3 +42,5 @@ def get_quote(mood):
 if __name__ == "__main__":
     user_mood = input("How are you feeling today? ")
     print(get_quote(user_mood))
+    
+#this is a mini program for just practicing python code
