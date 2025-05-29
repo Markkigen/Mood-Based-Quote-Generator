@@ -1,6 +1,6 @@
 from quotes import get_quote
 
-print("🧠 Mood-Based Quote Generator 🧘‍♂️")
+print("Mood-Based Quote Generator ")
 mood = input("How are you feeling? (happy, sad, stressed, motivated): ")
 
 quote = get_quote(mood)
