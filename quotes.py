@@ -5,6 +5,7 @@ quotes = {
         "Happiness is a direction, not a place.",
         "Smile, it's a free therapy.",
         "Joy is the simplest form of gratitude."
+        "as long i maintain this mood, i will be happy"
     ],
     "sad": [
         "Tough times never last, but tough people do.",
@@ -29,6 +30,8 @@ quotes = {
         "This moment will pass, and you'll grow stronger.",
         "Even the moon needs darkness to shine."
     ]
+
+
     
 }
 
